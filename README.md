@@ -29,7 +29,7 @@ dart pub add autoit_script_compiler
 
 ## Usage
 
-** create a file named "script.au3", content is as follows:**
+** create a file named "script.au3", content is as follows: **
 
 ```shell
 MsgBox(64, "guide", "Hello, world!")
